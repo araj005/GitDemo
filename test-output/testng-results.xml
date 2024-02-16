@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-10T20:42:37 IST" name="Default suite" finished-at="2024-02-10T20:42:40 IST" duration-ms="2463">
+    <groups>
+    </groups>
+    <test started-at="2024-02-10T20:42:37 IST" name="Default test" finished-at="2024-02-10T20:42:40 IST" duration-ms="2463">
+      <class name="JiraTest">
+        <test-method signature="GetSessionTokenS()[pri:0, instance:JiraTest@e15b7e8]" started-at="2024-02-10T20:42:37 IST" name="GetSessionTokenS" finished-at="2024-02-10T20:42:39 IST" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSessionTokenS -->
+        <test-method signature="GetIssueS()[pri:4, instance:JiraTest@e15b7e8]" started-at="2024-02-10T20:42:39 IST" name="GetIssueS" finished-at="2024-02-10T20:42:40 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetIssueS -->
+      </class> <!-- JiraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
